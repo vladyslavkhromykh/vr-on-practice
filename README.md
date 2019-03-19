@@ -1,1 +1,1 @@
-# vr-on-practice
+# VR on practice materials: Presentation.
